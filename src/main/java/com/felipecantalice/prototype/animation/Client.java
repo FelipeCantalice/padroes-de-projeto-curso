@@ -2,7 +2,6 @@ package com.felipecantalice.prototype.animation;
 
 import java.util.ArrayList;
 import java.util.List;
-
 import com.felipecantalice.prototype.animation.model.Person;
 import com.felipecantalice.prototype.animation.model.PersonSample;
 
